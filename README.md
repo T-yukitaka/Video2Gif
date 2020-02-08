@@ -17,7 +17,7 @@ cd Video2Gif
 - Conda Environment Setting
 
 ```
-conda env create -n Video2Gif -f environment.
+conda env create -n Video2Gif -f environment.yml
 pip install -r requirements.txt
 ```
 
